@@ -1,0 +1,9 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 50,
+    "better-comments.highlightPlainText": true,
+    "diffEditor.codeLens": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "html.completion.attributeDefaultValue": "doublequotes"
+}
